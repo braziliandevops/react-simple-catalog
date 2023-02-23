@@ -1,12 +1,21 @@
 import Home from "./pages/Home"
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Header from "components/Header";
+import Footer from "components/Footer";
+import Container from "components/Container";
+import Favorites from "pages/Favorites";
 
-function AppRoutes(){
+function AppRoutes() {
     return (
         <BrowserRouter>
-        <Routes>
-            <Route path="/" element={<Home/>}></Route>
-        </Routes>
+            <Header />
+            <Container>
+                <Routes>
+                    <Route path="/" element={<Home />}></Route>
+                    <Route path="/favorites" element={<Favorites />}></Route>
+                </Routes>
+            </Container>
+            <Footer />
         </BrowserRouter>
     )
 }
