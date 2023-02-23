@@ -1,26 +1,26 @@
 [
     {
         "id": 1,
-        "titulo": "O labirinto do Logcat",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
-        "link": "https://www.youtube.com/embed/ypvGqZGJBls"
+        "title": "Video 1",
+        "cover": "https://cdn.marvel.com/content/1x/spidermannwh_hardcover.jpg",
+        "link": "https://www.youtube.com/watch?v=JfVOs4VSpmA"
     },
     {
         "id": 2,
-        "titulo": "Um componente no espaço",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img1.png",
-        "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ"
+        "title": "Video 2",
+        "cover": "https://cdn.marvel.com/content/1x/spidermannwh_hardcover.jpg",
+        "link": "https://www.youtube.com/watch?v=JfVOs4VSpmA"
     },
     {
         "id": 3,
-        "titulo": "O poderoso JavaScript",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img4.png",
-        "link": "https://www.youtube.com/embed/N1BSG02z-Mw"
+        "title": "Video 3",
+        "cover": "https://cdn.marvel.com/content/1x/spidermannwh_hardcover.jpg",
+        "link": "https://www.youtube.com/watch?v=JfVOs4VSpmA"
     },
     {
         "id": 4,
-        "titulo": "Dart, o Caçador de Andróides",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
-        "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
+        "title": "Video 4",
+        "cover": "https://cdn.marvel.com/content/1x/spidermannwh_hardcover.jpg",
+        "link": "https://www.youtube.com/watch?v=JfVOs4VSpmA"
     }
 ]
